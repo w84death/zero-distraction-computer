@@ -23,6 +23,19 @@ Freewrite, Pomera, Neo..
 # Software
 ![software](https://i.imgur.com/OeiJlRo.jpg)
 - Raspbian (Debian) OS
-- Vim
+- Bash + custom header/colorsheme
+- Vim + Goyo plugin + Tomorrow colorsheme
 - Pico-8
-- Custom bash/vim themes (colorsheme)
+
+
+# Setup
+
+I will write a more detailed setup. For now only the rough list.
+
+- install raspbian lite
+- instal display drivers
+- setup terminal to framebufer1
+- auto login
+- add colorsheme to bashrc
+- install vim
+- add plugin and colorsheme to vim
