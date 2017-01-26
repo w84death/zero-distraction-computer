@@ -39,3 +39,11 @@ I will write a more detailed setup. For now only the rough list.
 - add colorsheme to bashrc
 - install vim
 - add plugin and colorsheme to vim
+
+# Battery time
+
+I'm using 2000mAh powerbank. Pi Zero needs very little power. Also terminal/vim usage is not CPU intense. I'm also thinking of underclocking the CPU to something like 300-500Mhz as I do not need 1Ghz.
+
+I need to write a test suit that will increment some value once a minute and do some calculations to simulate real usage. Right now I'm still at my first charge.
+
+I'll be updating this part also. Stay tuned.
